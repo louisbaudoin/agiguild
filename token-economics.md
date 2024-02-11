@@ -36,7 +36,7 @@ The objective is to incentivize on-going open source contribution. Contributors 
 Before being reviewed, contribution proposals will need to pass a set of criteria. e.g., 
 - be posterior to a certain date (otherwise assessing the impact of the work might be challenging)
 - be under the OSAI license
-- be categorized under a pre-defined category (e.g., model, dataset, tooling, DAO operations etc ...)
+- be categorized under a pre-defined category (e.g., model, dataset, tooling etc ...)
 - propose an optional allocation split between contributors if it's a multi-contributor proposal
 
 The manual review process will be improved and approved by governance vote. For example it could be such that: 
@@ -45,7 +45,10 @@ The manual review process will be improved and approved by governance vote. For 
 - a formula assigns a contribution score to the proposal based on the templates filled in by the K reviewers
 
 ii. To reviewers
-$AGI holders will be volunteering to be reviewers, and will earn rewards for participating in the review process. The allocation process of proposals to reviewers will be improved over time and based on feedback from reviewers and applicants. The process will be designed to avoid bias, conflicts, and assure that the reviewers have adequate expertise. 
+$AGI holders will be volunteering to be reviewers, and will earn rewards for participating in the review process. The allocation process of proposals to reviewers will be improved over time and based on feedback from reviewers and applicants. The process will be designed to avoid bias, conflicts, and assure that the reviewers have adequate expertise.
+
+iii. To DAO operators
+DAO operators are ensuring that the DAO runs properly (e.g., governance operations, commercial use enforcement). AI agents will be experimented to reduce overhead. 
 
 
 ## Commercial use members
