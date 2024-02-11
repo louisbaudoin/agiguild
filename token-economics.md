@@ -19,9 +19,9 @@ Total supply: 10B
 
 ## Initial distribution
 
-Initial distribution of $AGI is proposed to retroactively reward open source contributors weighted by github metrics and authors of papers weighted by citations. THe contributions will have to be made before the initial distribution deadline. 
+Initial distribution of $AGI is proposed to retroactively reward open source contributors weighted by github metrics and authors of papers weighted by citations. The contributions will have to be made before the initial distribution deadline to avoid gaming. For example, the cutoff could be Feb 01 2024. 
 
-Even if prepared with care and experts reviews to calibrate the allocation, the automated process will inevitably lead to mistakes and omissions, so we encourage people who think they were omitted to apply for retroactive funding via DAO software.
+Even if prepared with careful calibration, the automated process will inevitably lead to mistakes and omissions, so we encourage people who think they were omitted to apply for retroactive funding via the DAO software (see "On-going" distribution section). 
 
 The exact calculations are specified in (technical specification document)[./tech-spec.md].
 
@@ -31,13 +31,13 @@ To become a member of Guild and have voting power, holders of $AGI must stake th
 
 ## On-going distribution
 i. To open source contributors
-The objective is to incentivize on-going open source contribution. Contributors are encouraged to appeal for their contribution if their contributions before the deadline were not included in the initial $AGI distribution. Past the initial contribution, the review process will be manually done by reviewers yet assisted by github/citation metrics.
+The objective is to incentivize on-going open source contribution. Contributors are encouraged to appeal if their contributions before the deadline were not included in the initial $AGI distribution. Past the initial distribution, the review process will be manually done by reviewers yet assisted by github/citation metrics.
 
 Before being reviewed, contribution proposals will need to pass a set of criteria. e.g., 
 - be posterior to a certain date (otherwise assessing the impact of the work might be challenging)
 - be under the OSAI license
 - be categorized under a pre-defined category (e.g., model, dataset, tooling, DAO operations etc ...)
-- have an allocation key between contributors if it's a multi-contributor proposal
+- propose an optional allocation split between contributors if it's a multi-contributor proposal
 
 The manual review process will be improved and approved by governance vote. For example it could be such that: 
 - K reviewers are assigned to each proposal based on their expertise (and their lack of conflict)
